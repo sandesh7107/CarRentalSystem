@@ -1,0 +1,16 @@
+body{
+  background-color:silver;
+}
+
+.img-fluid{
+  border-radius: 50% !important;
+  height:100px !important ;
+  width:100px !important;
+}
+
+.imgfl{
+  border-radius: 70% !important;
+  height:300px !important ;
+  width:300px !important;
+}
+
